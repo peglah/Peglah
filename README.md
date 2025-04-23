@@ -1,7 +1,7 @@
-### Hi there 👋
-
-![Peglah's github stats](https://github-readme-stats.vercel.app/api?username=Peglah&show_icons=true&theme=gruvbox)
+![Peglah's github stats](https://github-readme-stats.vercel.app/api?username=peglah&show_icons=true&theme=gruvbox)
+<!--
 ![Peglah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Peglah&layout=compact&theme=gruvbox)
+-->
 
 <!--
 **Peglah/Peglah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
